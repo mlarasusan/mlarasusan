@@ -1,6 +1,6 @@
 ### Hello, I'm Lara Croft... I mean, Lara Susan. Welcome to my profile 🦊
 
-- 📚 I’m currently working as an English Instructor and Translator (PTxENG) 
+- 📚 Education Project Coordinator at GitHub 
 - 💻 I’m currently learning about coding
 - 📫 How to reach me: mlarasusan@github.com
 - 👩 Pronouns: she/her 
