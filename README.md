@@ -2,7 +2,7 @@
 
 - 📚 I’m currently working as an English Instructor and Translator (PTxENG) 
 - 💻 I’m currently learning about coding
-- 📫 How to reach me: teacherlarasusan@gmail.com
+- 📫 How to reach me: mlarasusan@github.com
 - 👩 Pronouns: she/her 
 - 🌵 Fun fact: I'm a biologist 
 
