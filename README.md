@@ -1,7 +1,7 @@
 ### Hello, I'm Lara Croft... I mean, Lara Susan. Welcome to my profile 🦊
 
 - 📚 Education Project Coordinator at GitHub 
-- 💻 I’m currently learning about coding
+- 💻 I’m currently learning about coding (and fossils as always) 
 - 📫 How to reach me: mlarasusan@github.com
 - 👩 Pronouns: she/her 
 - 🌵 Fun fact: I'm a biologist 
