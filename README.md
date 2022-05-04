@@ -13,11 +13,13 @@ I’m Lara Susan, but it’s okay to call me Lara Croft (I have no choice). I'm 
 
 - 🥋 Black belt in Karate and a Brazilian champion
 - 🧬 Officially a [Biologist](http://lattes.cnpq.br/6588562030645262), dedicated to Paleontology
-- 🦖 Yes, I study fossils, but not dinosaurs, invertebrates mostly 
+- 🦖 Yes, I study fossils, but not dinosaurs. Invertebrates mostly 
 - 💡 I discovered new species when I was in college
 - 📚 I also wrote a book for children about Geoscience
+- 🐻 I was attacked by a bear while hiking 
 - 📸 Nature photographer (DSLR and film)
 - 🏔️ I've been to Alaska 
+- ⬆️ One of the facts above is a lie haha which one? 🤔
 
 🛣️ I got lost on the road of life. I found myself here and decided to stay 💖
 
