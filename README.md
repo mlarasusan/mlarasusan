@@ -24,7 +24,7 @@ I’m Lara Susan, but it’s okay to call me Lara Croft (I have no choice). I'm 
 🛣️ I got lost on the road of life. I found myself here and decided to stay 💖
 
 <div>
-  <a href="https://www.linkedin.com/in/lara-susan-4b577a210/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lara-susan-4b577a210/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:mlarasusan@github.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![Snake animation](https://github.com/mlarasusan/mlarasusan/blob/output/github-contribution-grid-snake.svg)
