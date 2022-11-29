@@ -1,4 +1,4 @@
-### Hey you, welcome to my profile 🦊
+### Hey you, welcome to my profile :] 
 
 I’m Lara Susan, but it’s okay to call me Lara Croft (I have no choice). I'm a spacetime traveler working as a digital nomad since 2018. With a laptop in my backpack, and a passion in my heart, I travel to meet people, places, cultures, to share my knowledge, teach, and learn while exploring the world in this ephemeral life. 
 
